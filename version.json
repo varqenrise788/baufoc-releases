@@ -1,12 +1,12 @@
 {
-  "version": "0.20.0",
-  "url": "https://github.com/varqenrise788/baufoc-releases/releases/download/v0.20.0/baufoc.apk",
+  "version": "0.21.0",
+  "url": "https://github.com/varqenrise788/baufoc-releases/releases/download/v0.21.0/baufoc.apk",
   "versiones": {
-    "android": "0.20.0",
-    "windows": "0.20.0"
+    "android": "0.21.0",
+    "windows": "0.21.0"
   },
   "descargas": {
-    "android": "https://github.com/varqenrise788/baufoc-releases/releases/download/v0.20.0/baufoc.apk",
-    "windows": "https://github.com/varqenrise788/baufoc-releases/releases/download/v0.20.0/baufoc-setup.exe"
+    "android": "https://github.com/varqenrise788/baufoc-releases/releases/download/v0.21.0/baufoc.apk",
+    "windows": "https://github.com/varqenrise788/baufoc-releases/releases/download/v0.21.0/baufoc-setup.exe"
   }
 }
